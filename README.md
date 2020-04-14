@@ -7,3 +7,5 @@ This setup assumes that you are running EC2 instance on rpm systems like Amazon 
 3. update run.properties file with details.
 4. Run ```chmod 777 runJmeterTests.sh```
 5. run ```./runJmeterTests.sh```
+
+For details on how to create your distributed jmeter system using ECS, refer https://github.com/avtarjha/dockerized_distributed_jmeter_setup_with_ecs
